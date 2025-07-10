@@ -1,12 +1,14 @@
 body {
+  font-family: "Arvo", cursive;
   text-align: center;
   background-color: #283149;
+  color: #f5f5f5;
+  font-size: 2rem;
 }
 
 h1 {
   font-size: 5rem;
   color: #DBEDF3;
-  font-family: "Arvo", cursive;
   text-shadow: 3px 0 #DA0463;
 
 }
@@ -16,32 +18,24 @@ footer {
   font-family: sans-serif;
 }
 
-.w {
-  background-image : url("./images/tom1.png");
-}
-
 .a {
-  background-image : url("./images/tom2.png");
-}
-
-.s {
-  background-image : url("./images/tom3.png");
-}
-
-.d {
-  background-image : url("./images/tom4.png");
-}
-
-.j {
-  background-image : url("./images/crash.png");
-}
-
-.k {
   background-image : url("./images/kick.png");
 }
 
-.l {
+.s {
   background-image : url("./images/snare.png");
+}
+
+.j {
+  background-image : url("./images/tom1.png");
+}
+
+.k {
+  background-image : url("./images/tom2.png");
+}
+
+.l {
+  background-image : url("./images/crash.png");
 }
 
 .set {
