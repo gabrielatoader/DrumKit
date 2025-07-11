@@ -5,7 +5,7 @@ for(let i = 0; i< drumButtonsList.length; i++){
 }
 
 function handleButtonClick(){
-    var buttonValue = this.innerHTML;
+    var buttonValue = this.innerHTML.toLowerCase();
 
     makeSound(buttonValue);
     buttonAnimation(buttonValue);
@@ -17,7 +17,7 @@ document.addEventListener("keydown", function(event){
 })
 
 function makeSound(key){
-    switch(key){
+    switch(key.toLowerCase()){
          case "a":
             let kickAudio = new Audio('./sounds/kick.mp3');
             kickAudio.play();
