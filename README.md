@@ -28,7 +28,7 @@
 ## About The Project
 
 This is a beginner-friendly drum kit with five drum sounds: two toms, a kick, a snare, and a crash. Users can play by either clicking the on-screen drum icons or pressing specific keys on the keyboard.
-You can try it out [here](https://gabrielatoader.github.io/DrumKit/).
+You can try it out [here](https://gabrielatoader.github.io/DrumKit__HTML-CSS-JS/).
  
 The project was built as part of a Udemy course on HTML, CSS, and JavaScript. It focuses on using `eventListener` for both mouse clicks and keystrokes. Additional features include a few sample drum patterns for testing and learning.
 
@@ -43,7 +43,7 @@ The project was built as part of a Udemy course on HTML, CSS, and JavaScript. It
 <!-- GETTING STARTED -->
 ## Getting Started
 
-You can play it online [here](https://gabrielatoader.github.io/DrumKit/).
+You can play it online [here](https://gabrielatoader.github.io/DrumKit__HTML-CSS-JS/).
 
 If you want to make your own version, follow these steps to get the code and make it your own:
 
@@ -105,7 +105,7 @@ Don't forget to give the project a star! Thanks again!
 
 ### Top contributors:
 
-<a href="https://github.com/gabrielatoader/DrumKit/graphs/contributors">
+<a href="https://github.com/gabrielatoader/DrumKit__HTML-CSS-JS/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=gabrielatoader/DrumKit" alt="contrib.rocks image" />
 </a>
 
@@ -125,7 +125,7 @@ This project is licensed for non-commercial use only. Any commercial use, distri
 <!-- CONTACT -->
 ## Contact
 
-Project Link: [https://github.com/gabrielatoader/DrumKit](https://github.com/gabrielatoader/DrumKit)
+Project Link: [https://github.com/gabrielatoader/DrumKit__HTML-CSS-JS](https://github.com/gabrielatoader/DrumKit__HTML-CSS-JS)
 
 📫 Lets connect on [LinkedIn](https://linkedin.com/in/gabriela-toader)
 
